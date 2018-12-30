@@ -1,7 +1,7 @@
 {
-    "name": "Spritesheets",
+    "name": "using-url-in-scss-mixin",
     "version": "1.0.0",
-    "description": "Animated button using spritesheets",
+    "description": "Example on how to use url() inside a scss mixin or extend",
     "keywords": [],
     "author": "",
     "license": "ISC",
