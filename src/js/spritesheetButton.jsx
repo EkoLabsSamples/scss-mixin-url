@@ -1,5 +1,5 @@
 import EkoUIComponents from 'EkoUIComponents';
-import '../scss/spritesheetButton.scss';
+import '../scss/components/buttons/spritesheetButton.scss';
 
 export default class SpritesheetButton extends EkoUIComponents.EkoDecisionButton {
     getContent() {

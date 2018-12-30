@@ -1,10 +1,13 @@
+$helpersPath: '../../';
+@import '../../helpers';
+
 .ekoButton {
     // idle
     .btn {
+        @extend %ekoButton;
         width: 55.5px;
         height: 64px;
         border: none;
-        background-image: url('../assets/spritesheet.png');
         background-size: 333px 100%;
         background-color: transparent;
         animation: spinCoin 0.6s steps(6) infinite;
